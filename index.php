@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Namo Education</title>
+    <base href="/namoedu">
 
     <link rel="icon" type="image/x-icon"
         href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUOnl1m4eZ2PNc340XHXuP5foIsa7Y-izd8Q&usqp=CAU">
